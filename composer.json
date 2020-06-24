@@ -2,6 +2,16 @@
   "name": "aqvador/php-activerecord",
   "description": "life Pattern ActiveRecord",
   "type": "library",
+  "license": "MIT",
+  "keywords": [
+    "activerecord",
+    "orm",
+    "pdo",
+    "relation",
+    "micro",
+    "database"
+  ],
+  "homepage": "https://github.com/aqvador/php-ActiveRecord",
   "require": {
     "php": ">=5.6"
   },
