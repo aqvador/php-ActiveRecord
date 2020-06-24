@@ -1,0 +1,19 @@
+{
+  "name": "aqvador/php-ActiveRecord",
+  "description": "life Pattern ActiveRecord",
+  "type": "library",
+  "require": {
+    "php": ">=5.6"
+  },
+  "config": {
+    "process-timeout": 1800,
+    "fxp-asset": {
+      "enabled": false
+    }
+  },
+  "autoload": {
+    "psr-4": {
+      "aqvador\\": "src/"
+    }
+  }
+}
