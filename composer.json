@@ -1,5 +1,5 @@
 {
-  "name": "aqvador/php-ActiveRecord",
+  "name": "aqvador/php-activerecord",
   "description": "life Pattern ActiveRecord",
   "type": "library",
   "require": {
