@@ -43,8 +43,7 @@ use ArrayAccess;
  * @method having(string $having)
  * @method order(string $order)
  * @method orderBy(string $orderBy)
- * @method limit(int $limit)
- * @method offset(int $offset)
+ * @method limit(int $limit, int $offset)
  */
 abstract class ActiveRecord extends Base implements ArrayAccess
 {
